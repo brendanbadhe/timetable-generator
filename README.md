@@ -45,5 +45,13 @@ python scheduler.py
 
 ---
 
+## Project Documents
+
+- [Similarity Report](./similarity_report.pdf)
+- [Submission Receipt](./submission_reciept.pdf)
+- [Project Report](./timetable-generator-5.pdf)
+
+---
+
 **Disclaimer:**
 This repository and its documents are intended as project reports for academic or demonstration purposes only. They are not formal research papers and should not be cited as such.
